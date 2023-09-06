@@ -52,7 +52,7 @@ See https://jupyter.org/install:
 
 ### Create the python-oracledb sample schema
 
-Clone/download https://github.com/oracle/python-oracledb/tree/master/samples, for example in a terminal window:
+Clone/download https://github.com/oracle/python-oracledb/tree/main/samples, for example in a terminal window:
 
     git clone https://github.com/oracle/python-oracledb.git
 
