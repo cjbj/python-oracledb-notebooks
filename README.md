@@ -1,4 +1,4 @@
-# Python cx_Oracle Notebooks, 2023
+# Python python-oracledb Notebooks, 2023
 
 This repository contains Jupyter notebooks showing best practices for using
 [python-oracledb](https://pypi.org/project/oracledb/), the Python DB API for Oracle
